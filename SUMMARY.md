@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Welcome to enerGneer Wiki](README.md)
+- [enerGneer Wiki](README.md)
 - [VSCode](vscode/README.md)
   - [💡 자주 사용하는 단축키 모음](vscode/undefined.md)
 - [CSS](css/README.md)
@@ -18,6 +18,7 @@
   - [yarn](next.js/yarn.md)
   - [자체 로컬 서버에서 서버를 시작하는 방법](next.js/undefined.md)
 - [Git](git/README.md)
-  - [amend 후 pull뜨는 문제](git/amend-pull.md)
+  - [push 취소 방법](git/push-cancel.md)
+  - [amend](git/amend.md)
   - [Git 충돌 해결](git/git.md)
   - [명령어 사용하기](git/undefined.md)
