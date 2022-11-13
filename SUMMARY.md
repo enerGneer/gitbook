@@ -19,6 +19,6 @@
   - [자체 로컬 서버에서 서버를 시작하는 방법](next.js/undefined.md)
 - [Git](git/README.md)
   - [push 취소 방법](git/push-cancel.md)
-  - [amend](git/amend.md)
+  - [amend : 빠뜨린 파일, 오타가 있을 때 수정하기](git/amend.md)
   - [Git 충돌 해결](git/git.md)
   - [명령어 사용하기](git/undefined.md)

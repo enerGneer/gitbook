@@ -1,7 +1,5 @@
 # Array
 
-
-
 ## array 안에 있는 항목 받아오기
 
 ```javascript
@@ -11,8 +9,8 @@ const daysOfWeek = ["mon", "tue", "wed", "thu", "fri", "sat"];
 console.log(daysOfWeek[5]); //sat
 ```
 
-* 결과가 sat인 이유
-  * 컴퓨터는 숫자를 0부터 센다.
+- 결과가 sat인 이유
+  - 컴퓨터는 숫자를 0부터 센다.
 
 ## array에 element 추가 해주기 : push
 

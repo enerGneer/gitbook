@@ -1,6 +1,6 @@
 # Object
 
-### Object의 표현 방식 두 가
+### Object의 표현 방식 두 가지
 
 ```javascript
 const player = {

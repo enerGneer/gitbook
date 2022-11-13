@@ -32,6 +32,6 @@ git push -f origin master
 
 ## REF
 
-- https://ninano1109.tistory.com/3
-- https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-git-add-commit-push-%EC%B7%A8%EC%86%8C%ED%95%98%EA%B8%B0-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-git-reset-restore-clean#git-push-%EC%B7%A8%EC%86%8C%ED%95%98%EA%B8%B0
+- [https://ninano1109.tistory.com/3](https://ninano1109.tistory.com/3)
+- [https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-git-add-commit-push-%EC%B7%A8%EC%86%8C%ED%95%98%EA%B8%B0-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-git-reset-restore-clean#git-push-%EC%B7%A8%EC%86%8C%ED%95%98%EA%B8%B0](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-git-add-commit-push-%EC%B7%A8%EC%86%8C%ED%95%98%EA%B8%B0-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-git-reset-restore-clean#git-push-%EC%B7%A8%EC%86%8C%ED%95%98%EA%B8%B0)
   이 링크 참고해서 내용 더 추가해놓자

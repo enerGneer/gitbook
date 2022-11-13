@@ -1,4 +1,4 @@
-## amend
+## amend : 빠뜨린 파일, 오타가 있을 때 수정하기
 
 1. git commit --amend
 2. 내용 수정
