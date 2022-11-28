@@ -18,6 +18,7 @@
   - [yarn](next.js/yarn.md)
   - [자체 로컬 서버에서 서버를 시작하는 방법](next.js/undefined.md)
 - [Git](git/README.md)
+  - [좋은 커밋 메시지 작성법](git/msg.md)
   - [push 취소 방법](git/push-cancel.md)
   - [amend : 빠뜨린 파일, 오타가 있을 때 수정하기](git/amend.md)
   - [Git 충돌 해결](git/git.md)
