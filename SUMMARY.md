@@ -2,6 +2,7 @@
 
 * [enerGneer Wiki](README.md)
 * [Database](database/README.md)
+  * [SQL 문법](database/sql.md)
   * [Selectivity](database/selectivity.md)
 * [VSCode](vscode/README.md)
   * [자주 사용하는 단축키 모음](vscode/undefined.md)
