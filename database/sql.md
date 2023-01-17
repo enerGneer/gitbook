@@ -134,6 +134,14 @@ GROUP BY hr_zone;
 SELECT MAX(age) FROM customers;
 ```
 
+#### 횟수 COUNT 를 구하기
+
+어떤 열이든 상관없기에 `*` 을 넣은 것.
+
+```sql
+SELECT type FROM exercise_logs GROUP BY type HAVING COUNT(*) >= 2;
+```
+
 ### 데이터 그룹화 GROUP BY
 
 ```sql
@@ -144,14 +152,6 @@ SELECT gender, COUNT(*) FROM students GROUP BY gender;
 
 ```sql
 SELECT * FROM customers WHERE age > 21 ORDER BY age DESC;
-```
-
-### 횟수 COUNT 를 구하기
-
-어떤 열이든 상관없기에 `*` 을 넣은 것.
-
-```sql
-SELECT type FROM exercise_logs GROUP BY type HAVING COUNT(*) >= 2;
 ```
 
 ## 관계형 테이블에 조인
