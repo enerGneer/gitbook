@@ -1,2 +1,0 @@
-# 💽 Software Life Cycle
-

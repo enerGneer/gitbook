@@ -4,7 +4,7 @@ description: 알게 된 용어들을 가볍게 정리하는 단어장
 
 # 📔Glossary of Terms
 
-{% hint style="info" %}
+{% hint style="success" %}
 **RULE**
 
 * 노션TIL에 편하게 올린 다음에 일주일에 한 번 몰아서 편집한다.
